@@ -15,6 +15,7 @@
 		4CA39CF42C2D31C100E82290 /* SwiftUI_MagnificationGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA39CF32C2D31C100E82290 /* SwiftUI_MagnificationGesture.swift */; };
 		4CA39CF62C2D709400E82290 /* SwiftUI_RotationGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA39CF52C2D709400E82290 /* SwiftUI_RotationGesture.swift */; };
 		4CA39CF82C2D75C200E82290 /* SwiftUI_DragGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA39CF72C2D75C200E82290 /* SwiftUI_DragGesture.swift */; };
+		4CA39CFA2C2D849600E82290 /* SwiftUI_DragGesture_Other.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA39CF92C2D849600E82290 /* SwiftUI_DragGesture_Other.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		4CA39CF32C2D31C100E82290 /* SwiftUI_MagnificationGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_MagnificationGesture.swift; sourceTree = "<group>"; };
 		4CA39CF52C2D709400E82290 /* SwiftUI_RotationGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_RotationGesture.swift; sourceTree = "<group>"; };
 		4CA39CF72C2D75C200E82290 /* SwiftUI_DragGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_DragGesture.swift; sourceTree = "<group>"; };
+		4CA39CF92C2D849600E82290 /* SwiftUI_DragGesture_Other.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_DragGesture_Other.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				4CA39CF32C2D31C100E82290 /* SwiftUI_MagnificationGesture.swift */,
 				4CA39CF52C2D709400E82290 /* SwiftUI_RotationGesture.swift */,
 				4CA39CF72C2D75C200E82290 /* SwiftUI_DragGesture.swift */,
+				4CA39CF92C2D849600E82290 /* SwiftUI_DragGesture_Other.swift */,
 				4C0289D22C2D133200A1A1B0 /* Assets.xcassets */,
 				4C0289D42C2D133200A1A1B0 /* Preview Content */,
 			);
@@ -155,6 +158,7 @@
 				4C0289CF2C2D133000A1A1B0 /* SwiftUI_UserActions_Networking_DataSaveApp.swift in Sources */,
 				4CA39CF42C2D31C100E82290 /* SwiftUI_MagnificationGesture.swift in Sources */,
 				4CA39CF82C2D75C200E82290 /* SwiftUI_DragGesture.swift in Sources */,
+				4CA39CFA2C2D849600E82290 /* SwiftUI_DragGesture_Other.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
