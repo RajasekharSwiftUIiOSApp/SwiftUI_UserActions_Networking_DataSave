@@ -11,7 +11,10 @@ import SwiftUI
 struct SwiftUI_UserActions_Networking_DataSaveApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            //SwiftUI_MagnificationGesture()
+            //SwiftUI_RotationGesture()
+            SwiftUI_DragGesture()
         }
     }
 }

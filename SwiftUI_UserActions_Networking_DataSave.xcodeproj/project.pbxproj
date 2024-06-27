@@ -11,6 +11,10 @@
 		4C0289D12C2D133000A1A1B0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0289D02C2D133000A1A1B0 /* ContentView.swift */; };
 		4C0289D32C2D133200A1A1B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C0289D22C2D133200A1A1B0 /* Assets.xcassets */; };
 		4C0289D62C2D133200A1A1B0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C0289D52C2D133200A1A1B0 /* Preview Assets.xcassets */; };
+		4C0289DD2C2D137500A1A1B0 /* SwiftUI_LongpressGester.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0289DC2C2D137500A1A1B0 /* SwiftUI_LongpressGester.swift */; };
+		4CA39CF42C2D31C100E82290 /* SwiftUI_MagnificationGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA39CF32C2D31C100E82290 /* SwiftUI_MagnificationGesture.swift */; };
+		4CA39CF62C2D709400E82290 /* SwiftUI_RotationGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA39CF52C2D709400E82290 /* SwiftUI_RotationGesture.swift */; };
+		4CA39CF82C2D75C200E82290 /* SwiftUI_DragGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA39CF72C2D75C200E82290 /* SwiftUI_DragGesture.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +23,10 @@
 		4C0289D02C2D133000A1A1B0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4C0289D22C2D133200A1A1B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4C0289D52C2D133200A1A1B0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4C0289DC2C2D137500A1A1B0 /* SwiftUI_LongpressGester.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_LongpressGester.swift; sourceTree = "<group>"; };
+		4CA39CF32C2D31C100E82290 /* SwiftUI_MagnificationGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_MagnificationGesture.swift; sourceTree = "<group>"; };
+		4CA39CF52C2D709400E82290 /* SwiftUI_RotationGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_RotationGesture.swift; sourceTree = "<group>"; };
+		4CA39CF72C2D75C200E82290 /* SwiftUI_DragGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_DragGesture.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +61,10 @@
 			children = (
 				4C0289CE2C2D133000A1A1B0 /* SwiftUI_UserActions_Networking_DataSaveApp.swift */,
 				4C0289D02C2D133000A1A1B0 /* ContentView.swift */,
+				4C0289DC2C2D137500A1A1B0 /* SwiftUI_LongpressGester.swift */,
+				4CA39CF32C2D31C100E82290 /* SwiftUI_MagnificationGesture.swift */,
+				4CA39CF52C2D709400E82290 /* SwiftUI_RotationGesture.swift */,
+				4CA39CF72C2D75C200E82290 /* SwiftUI_DragGesture.swift */,
 				4C0289D22C2D133200A1A1B0 /* Assets.xcassets */,
 				4C0289D42C2D133200A1A1B0 /* Preview Content */,
 			);
@@ -138,7 +150,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C0289D12C2D133000A1A1B0 /* ContentView.swift in Sources */,
+				4C0289DD2C2D137500A1A1B0 /* SwiftUI_LongpressGester.swift in Sources */,
+				4CA39CF62C2D709400E82290 /* SwiftUI_RotationGesture.swift in Sources */,
 				4C0289CF2C2D133000A1A1B0 /* SwiftUI_UserActions_Networking_DataSaveApp.swift in Sources */,
+				4CA39CF42C2D31C100E82290 /* SwiftUI_MagnificationGesture.swift in Sources */,
+				4CA39CF82C2D75C200E82290 /* SwiftUI_DragGesture.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
